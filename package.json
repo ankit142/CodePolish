@@ -1,6 +1,6 @@
 {
   "name": "codepolish",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Beautify your code, Elevate your projects",
   "main": "index.cjs",
   "type": "commonjs",
