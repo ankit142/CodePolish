@@ -52,6 +52,7 @@ Now just head to the console:
 
 And the below screenshot can be seen as it is on the console:
 
+![consoleprompt](https://github.com/ankit142/CodePolish/blob/main/media/consoleprompt.png)
 
 # (Examples)
 
