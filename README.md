@@ -15,7 +15,7 @@ Beautify your code, Elevate your projects
 A npm package written on node to beautify your code be it any tech specific, be it JSON, JS, YAML, Python or JAVA extension files.
 
 # Installation
-You can install ColoredCLI using npm:
+You can install CodePolish using:
 
 `npm i codepolish`
 
