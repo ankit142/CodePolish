@@ -1,0 +1,8 @@
+const { beautifyJSON } = require('../index.cjs');
+
+async function main() {
+    const [,, inputPath, outputPath] = process.argv;
+    await beautifyJSON(inputPath, outputPath);
+}
+
+main();
