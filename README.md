@@ -36,6 +36,11 @@ return `Hello, ${name}!`;
 }console.log(greet('Ankit Guria'));
 ```
 
+Some dependencies maybe required, like:
+
+`npm install yaml`
+
+As the package also supports .yaml files.
 Now just head to the directory of this file and run this command on the console:
 
 `node -e "require('codepolish').beautifyJS('sample.js')"`
@@ -60,6 +65,9 @@ And the below screenshot can be seen as it is on the console:
 
 ![OutputImage1](https://github.com/ankit142/CodePolish/blob/main/media/earlierPY.png)
 
+
+`node -e "require('codepolish').beautifyPython('sample.py')"`
+
 # Output:
 
 ![OutputImage12](https://github.com/ankit142/CodePolish/blob/main/media/formattedPY.png)
@@ -67,6 +75,8 @@ And the below screenshot can be seen as it is on the console:
 # Test2: Playing with JS files, beautifying .js
 
 ![OutputImage1](https://github.com/ankit142/CodePolish/blob/main/media/earlierJS.png)
+
+`node -e "require('codepolish').beautifyJS('sample.js')"`
 
 # Output:
 
@@ -76,6 +86,8 @@ And the below screenshot can be seen as it is on the console:
 
 ![OutputImage1](https://github.com/ankit142/CodePolish/blob/main/media/earlierJAVA.png)
 
+`node -e "require('codepolish').beautifyJava('sample.java')"`
+
 # Output:
 
 ![OutputImage12](https://github.com/ankit142/CodePolish/blob/main/media/formattedJAVA.png)
@@ -83,6 +95,8 @@ And the below screenshot can be seen as it is on the console:
 # Test4: Playing with JSONs, beautifying JSON Linters
 
 ![OutputImage1](https://github.com/ankit142/CodePolish/blob/main/media/earlierJSON.png)
+
+`node -e "require('codepolish').beautifyJSON('sample.json')"`
 
 # Output:
 
